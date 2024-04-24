@@ -8,7 +8,11 @@ This Python script allows you to fetch all repositories of a GitHub user and sav
 - GitHub account.
 - Personal access token generated from GitHub (https://github.com/settings/tokens/new)
 
-### Installation
+## Easy way 
+
+```curl -sSL https://raw.githubusercontent.com/GlTIab/github-repos-scraper/main/github-repos-scraper | python3 - -username <GitHub_username> -token <GitHub_personal_access_token>```
+
+### General way
 
 1. Clone or download the repository containing the script.
 2. Ensure you have Python 3.x installed on your system.
