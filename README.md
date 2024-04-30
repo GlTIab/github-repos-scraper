@@ -10,7 +10,7 @@ This Python script allows you to fetch all repositories of a GitHub user and sav
 
 ## Easy way 
 
-```curl -sSL https://raw.githubusercontent.com/GlTIab/github-repos-scraper/main/github-repos-scraper.py | python3 - -username <GitHub_username> -token <GitHub_personal_access_token>```
+```curl -sSL https://raw.githubusercontent.com/GlTIab/github-repos-scraper/main/github-repos-scraper.py | python3 - -username <Github_Target_Username> -token <Your_GitHub_personal_access_token>```
 
 ### General way
 
